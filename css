@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-radius: 10px;
+    background-color: rgb(183, 241, 241);
+    padding: 10px;
+    border: 1px solid black;
+}
+
+h1 i {
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px;
+    padding: 5px;
+    background-color: rgb(183, 241, 241);
+    color: blue;
+}
+
+p img {
+    border-radius: 10px;
+    background-color: red;
+    height: 100px;
+    width: 500px;
+    border: 5px solid rgb(12, 81, 0);
+    padding: 10px;
+}
+
+img scr {
+    border-radius: 10px;
+    border: 5px solid rgb(12, 81, 0);
+}
